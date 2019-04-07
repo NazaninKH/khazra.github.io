@@ -1,4 +1,4 @@
-# Welcome to Jekyll !
+#Welcome to Jekyll !
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -80,7 +80,7 @@ author:
   name             : "Abdollah Farhoodi"
   avatar           : "profile.png"
   bio              : "Economics PhD Candidate at University of Illinois at Urbana-Champaign"
-  location         : "Champaign,IL"
+  location         : "Champaign, IL"
   employer         : 
   googlescholar    : #"http://scholar.google.com/this-is-a-test"
   email            : 
