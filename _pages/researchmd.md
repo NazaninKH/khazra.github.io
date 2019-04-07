@@ -16,3 +16,6 @@ This paper studies welfare estimation in peer-to-peer markets with heterogeneous
 ### Introducing a Micro-Founded Index of Consumption Welfare: A Big Data Approach
 ### Using Big Data to Estimate the Effect of Regulation in Peer-to-Peer Markets: the Case of Airbnb
 (with Peter Christensen)
+
+## Other Activities
+* **Big-Data in Environmental Economics and Policy Research Group** [BDEEP](https://www.uiuc-bdeep.org)
