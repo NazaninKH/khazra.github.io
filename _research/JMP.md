@@ -4,7 +4,7 @@ collection: publications
 permalink: /research/JMP
 venue: "Job Market Paper"
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2019
+date: 2009-10-01
 paperurl: http://farhoodi.github.io/files/paper3.pdf
 citation: 'Farhoodi, A. (2019), "Welfare Estimation in Peer-to-Peer Markets with Heterogeneous Agents," <i>Working Paper</i>'
 ---
