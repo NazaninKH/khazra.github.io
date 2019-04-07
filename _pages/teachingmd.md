@@ -2,6 +2,7 @@
 permalink: /teachingmd/
 title: "Teaching"
 author_profile: true
+---
 
 ## Instructor
 
