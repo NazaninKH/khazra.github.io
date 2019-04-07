@@ -13,7 +13,7 @@ author_profile: true
 ## Teacher Assistant
 ### University of Illinois (Undergraduate-Level)
 * **Intoduction to Microeconomics**
-  * Awarded in the “List of Teachers Ranked as Excellent by their Students” for fo 6 consecutive semesters
+  * Awarded in the “List of Teachers Ranked as Excellent by their Students” for 6 consecutive semesters
 * **Intermediate Microeconomics**
 
 ### Sharif University of Technology (Graduate-Level)
