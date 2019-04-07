@@ -1,5 +1,5 @@
 ---
-title: "Welfare Estimation in Peer-to-Peer Markets with Heterogeneous Agents"
+title: "Welfare Estimation in Peer-to-Peer Markets with Heterogeneous Agents: the Case of Airbnb"
 collection: publications
 permalink: /research/JMP
 venue: "Job Market Paper"
