@@ -15,7 +15,7 @@ author_profile: true
 -->
 ---
 permalink: /teaching/
-title: "Markdown"
+title: "Markdown1"
 author_profile: true
 redirect_from: 
   - /md/
