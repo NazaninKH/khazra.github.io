@@ -7,7 +7,7 @@ author_profile: true
 ## Job Market Paper
 
 ### Welfare Estimation in Peer-to-Peer Markets with Heterogeneous Agents: the Case of Airbnb
-* Advisor: [Mark Daniel Bernhardt](https://economics.illinois.edu/profile/danber)
+* Advisor: [Prof. Mark Daniel Bernhardt](https://economics.illinois.edu/profile/danber)
 * [Download paper](http://google.com) here.
 
 ## Working Papers
